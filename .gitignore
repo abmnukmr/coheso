@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+coheso_backend/node_modules
+
 # testing
 /coverage
 
